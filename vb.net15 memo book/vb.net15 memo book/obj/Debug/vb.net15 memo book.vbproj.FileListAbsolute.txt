@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\bin\Debug\vb.net15 memo book.exe.config
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\bin\Debug\vb.net15 memo book.exe
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\bin\Debug\vb.net15 memo book.pdb
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\bin\Debug\vb.net15 memo book.xml
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.Form1.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.Resources.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15 memo book.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15 memo book.exe
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15 memo book.xml
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15 memo book.pdb
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.contact.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.todo.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.report.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.reportContact.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.reportTodo.resources
+C:\Users\Administrator\Desktop\VB.NET projects\vb.net15 memo book\vb.net15 memo book\obj\Debug\vb.net15_memo_book.splash.resources
